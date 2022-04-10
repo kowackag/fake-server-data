@@ -9,7 +9,3 @@ server.use(router);
 
 server.listen(port);
 
-
-module.exports = {
-    db
-}
